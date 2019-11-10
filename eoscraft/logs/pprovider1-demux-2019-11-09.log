@@ -1,0 +1,174 @@
+2019-11-09 21:37:54 [[32minfo[39m]: starting db: env - development, dialect - sqlite
+2019-11-09 21:37:54 [[32minfo[39m]: ws connected
+2019-11-09 21:37:54 [[32minfo[39m]: got abi
+2019-11-09 21:37:55 [[32minfo[39m]: starting demux at block 1
+2019-11-09 21:37:55 [[32minfo[39m]: Starting demux processing
+2019-11-09 21:37:55 [[32minfo[39m]: calculated genesis block timestamp (ms): 1573335447000
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:37:55 [[34mdebug[39m]: setabi for eosio.token - updating Serializer
+2019-11-09 21:37:56 [[34mdebug[39m]: setabi for eosio.msig - updating Serializer
+2019-11-09 21:37:56 [[34mdebug[39m]: setabi for eosio - updating Serializer
+2019-11-09 21:38:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 84 Pending Messages: 1
+2019-11-09 21:38:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 114 Pending Messages: 1
+2019-11-09 21:38:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 144 Pending Messages: 1
+2019-11-09 21:38:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 174 Pending Messages: 1
+2019-11-09 21:39:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 204 Pending Messages: 1
+2019-11-09 21:39:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 234 Pending Messages: 1
+2019-11-09 21:39:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 264 Pending Messages: 1
+2019-11-09 21:39:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 294 Pending Messages: 1
+2019-11-09 21:40:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 324 Pending Messages: 1
+2019-11-09 21:40:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 354 Pending Messages: 1
+2019-11-09 21:40:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 384 Pending Messages: 1
+2019-11-09 21:40:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 414 Pending Messages: 1
+2019-11-09 21:41:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 444 Pending Messages: 1
+2019-11-09 21:41:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 474 Pending Messages: 1
+2019-11-09 21:41:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 504 Pending Messages: 1
+2019-11-09 21:41:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 534 Pending Messages: 1
+2019-11-09 21:42:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 564 Pending Messages: 1
+2019-11-09 21:42:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 594 Pending Messages: 1
+2019-11-09 21:42:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 624 Pending Messages: 1
+2019-11-09 21:42:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 654 Pending Messages: 1
+2019-11-09 21:43:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 684 Pending Messages: 1
+2019-11-09 21:43:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 714 Pending Messages: 1
+2019-11-09 21:43:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 744 Pending Messages: 1
+2019-11-09 21:43:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 774 Pending Messages: 1
+2019-11-09 21:44:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 804 Pending Messages: 1
+2019-11-09 21:44:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 834 Pending Messages: 1
+2019-11-09 21:44:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 864 Pending Messages: 1
+2019-11-09 21:44:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 894 Pending Messages: 1
+2019-11-09 21:45:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 924 Pending Messages: 1
+2019-11-09 21:45:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 954 Pending Messages: 1
+2019-11-09 21:45:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 984 Pending Messages: 1
+2019-11-09 21:45:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1014 Pending Messages: 1
+2019-11-09 21:46:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1044 Pending Messages: 1
+2019-11-09 21:46:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1074 Pending Messages: 1
+2019-11-09 21:46:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1104 Pending Messages: 1
+2019-11-09 21:46:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1134 Pending Messages: 1
+2019-11-09 21:47:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1164 Pending Messages: 1
+2019-11-09 21:47:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1194 Pending Messages: 1
+2019-11-09 21:47:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1224 Pending Messages: 1
+2019-11-09 21:47:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1254 Pending Messages: 1
+2019-11-09 21:48:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1284 Pending Messages: 1
+2019-11-09 21:48:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1314 Pending Messages: 1
+2019-11-09 21:48:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1344 Pending Messages: 1
+2019-11-09 21:48:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1374 Pending Messages: 1
+2019-11-09 21:49:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1404 Pending Messages: 1
+2019-11-09 21:49:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1434 Pending Messages: 1
+2019-11-09 21:49:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1464 Pending Messages: 1
+2019-11-09 21:49:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1494 Pending Messages: 1
+2019-11-09 21:50:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1524 Pending Messages: 1
+2019-11-09 21:50:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1554 Pending Messages: 1
+2019-11-09 21:50:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1584 Pending Messages: 1
+2019-11-09 21:50:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1614 Pending Messages: 1
+2019-11-09 21:51:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1644 Pending Messages: 1
+2019-11-09 21:51:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1674 Pending Messages: 1
+2019-11-09 21:51:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1704 Pending Messages: 1
+2019-11-09 21:51:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1734 Pending Messages: 1
+2019-11-09 21:52:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1764 Pending Messages: 1
+2019-11-09 21:52:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1794 Pending Messages: 1
+2019-11-09 21:52:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1824 Pending Messages: 1
+2019-11-09 21:52:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1854 Pending Messages: 1
+2019-11-09 21:53:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 1884 Pending Messages: 1
+2019-11-09 21:53:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 1914 Pending Messages: 1
+2019-11-09 21:53:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 1944 Pending Messages: 1
+2019-11-09 21:53:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 1974 Pending Messages: 1
+2019-11-09 21:54:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2004 Pending Messages: 1
+2019-11-09 21:54:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2034 Pending Messages: 1
+2019-11-09 21:54:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2064 Pending Messages: 1
+2019-11-09 21:54:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2094 Pending Messages: 1
+2019-11-09 21:55:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2124 Pending Messages: 1
+2019-11-09 21:55:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2154 Pending Messages: 1
+2019-11-09 21:55:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2184 Pending Messages: 1
+2019-11-09 21:55:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2214 Pending Messages: 1
+2019-11-09 21:56:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2244 Pending Messages: 1
+2019-11-09 21:56:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2274 Pending Messages: 1
+2019-11-09 21:56:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2304 Pending Messages: 1
+2019-11-09 21:56:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2334 Pending Messages: 1
+2019-11-09 21:57:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2364 Pending Messages: 1
+2019-11-09 21:57:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2394 Pending Messages: 1
+2019-11-09 21:57:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2424 Pending Messages: 1
+2019-11-09 21:57:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2454 Pending Messages: 1
+2019-11-09 21:58:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2484 Pending Messages: 1
+2019-11-09 21:58:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2514 Pending Messages: 1
+2019-11-09 21:58:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2544 Pending Messages: 1
+2019-11-09 21:58:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2574 Pending Messages: 1
+2019-11-09 21:59:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2604 Pending Messages: 1
+2019-11-09 21:59:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2634 Pending Messages: 1
+2019-11-09 21:59:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2664 Pending Messages: 1
+2019-11-09 21:59:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2694 Pending Messages: 1
+2019-11-09 22:00:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2724 Pending Messages: 1
+2019-11-09 22:00:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2754 Pending Messages: 1
+2019-11-09 22:00:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2784 Pending Messages: 1
+2019-11-09 22:00:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2814 Pending Messages: 1
+2019-11-09 22:01:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2844 Pending Messages: 1
+2019-11-09 22:01:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2874 Pending Messages: 1
+2019-11-09 22:01:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 2904 Pending Messages: 1
+2019-11-09 22:01:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 2934 Pending Messages: 1
+2019-11-09 22:02:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 2964 Pending Messages: 1
+2019-11-09 22:02:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 2994 Pending Messages: 1
+2019-11-09 22:02:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3024 Pending Messages: 1
+2019-11-09 22:02:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3054 Pending Messages: 1
+2019-11-09 22:03:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3084 Pending Messages: 1
+2019-11-09 22:03:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3114 Pending Messages: 1
+2019-11-09 22:03:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3144 Pending Messages: 1
+2019-11-09 22:03:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3174 Pending Messages: 1
+2019-11-09 22:04:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3204 Pending Messages: 1
+2019-11-09 22:04:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3234 Pending Messages: 1
+2019-11-09 22:04:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3264 Pending Messages: 1
+2019-11-09 22:04:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3294 Pending Messages: 1
+2019-11-09 22:05:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3324 Pending Messages: 1
+2019-11-09 22:05:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3354 Pending Messages: 1
+2019-11-09 22:05:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3384 Pending Messages: 1
+2019-11-09 22:05:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3414 Pending Messages: 1
+2019-11-09 22:06:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3444 Pending Messages: 1
+2019-11-09 22:06:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3474 Pending Messages: 1
+2019-11-09 22:06:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3504 Pending Messages: 1
+2019-11-09 22:06:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3534 Pending Messages: 1
+2019-11-09 22:07:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3564 Pending Messages: 1
+2019-11-09 22:07:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3594 Pending Messages: 1
+2019-11-09 22:07:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3624 Pending Messages: 1
+2019-11-09 22:07:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3654 Pending Messages: 1
+2019-11-09 22:08:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3684 Pending Messages: 1
+2019-11-09 22:08:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3714 Pending Messages: 1
+2019-11-09 22:08:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3744 Pending Messages: 1
+2019-11-09 22:08:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3774 Pending Messages: 1
+2019-11-09 22:09:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3804 Pending Messages: 1
+2019-11-09 22:09:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3834 Pending Messages: 1
+2019-11-09 22:09:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3864 Pending Messages: 1
+2019-11-09 22:09:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 3894 Pending Messages: 1
+2019-11-09 22:10:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 3924 Pending Messages: 1
+2019-11-09 22:10:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 3954 Pending Messages: 1
+2019-11-09 22:10:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 3984 Pending Messages: 1
+2019-11-09 22:10:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 4014 Pending Messages: 1
+2019-11-09 22:11:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 4044 Pending Messages: 1
+2019-11-09 22:11:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 4074 Pending Messages: 1
+2019-11-09 22:11:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 4104 Pending Messages: 1
+2019-11-09 22:11:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 4134 Pending Messages: 1
+2019-11-09 22:12:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 4164 Pending Messages: 1
+2019-11-09 22:12:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 4194 Pending Messages: 1
+2019-11-09 22:12:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 4224 Pending Messages: 1
+2019-11-09 22:12:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 4254 Pending Messages: 1
+2019-11-09 22:13:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 4284 Pending Messages: 1
+2019-11-09 22:13:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 4314 Pending Messages: 1
+2019-11-09 22:13:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 4344 Pending Messages: 1
+2019-11-09 22:13:54 [[32minfo[39m]: Demux heartbeat - Processed Block: 4374 Pending Messages: 1
+2019-11-09 22:14:09 [[32minfo[39m]: Demux heartbeat - Processed Block: 4404 Pending Messages: 1
+2019-11-09 22:14:24 [[32minfo[39m]: Demux heartbeat - Processed Block: 4434 Pending Messages: 1
+2019-11-09 22:14:39 [[32minfo[39m]: Demux heartbeat - Processed Block: 4464 Pending Messages: 1
